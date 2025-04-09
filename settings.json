@@ -1,0 +1,5 @@
+{
+    "companies_to_exclude": "hervis, av group, hofer, mango, spar, billa",
+    "titles_to_exclude": "versicherung, kellner, bistro, mitarbeiter, Sachbearbeiter, logopäd, bauleiter, leiter, leitung, verkäufer, verkauf, ärzt, salesman, sales, buchhalter, merchandiser",
+    "skills": ["keras", ["git", "github"], ["statistics", "math", "mathematics"], ["sql", "mysql"], "pyspark", "azure", "python", "langchain", "torch", "java", "aws", "docker", "kubernetes", "tensorflow", ["c++", "cpp"], ["gcp", "google cloud platform"]]
+}
