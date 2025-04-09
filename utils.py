@@ -26,15 +26,11 @@ def clean_up(jobs:pd.DataFrame, settings, save_as_new_file = False, save_to = No
             if company in jobs.loc[i, "company"].lower(): 
                 jobs_to_exclude.add(i)
                 break
-
-        # TODO: Assumptions
         
         jobs.loc[i, "description"] = str(jobs.loc[i, "description"]).replace("About the job", "").strip().lower()
         jobs.loc[i, "skills"] = str(jobs.loc[i, "skills"]).replace(";", ",").strip().lower()
-    log(list(jobs_to_exclude))
     jobs.drop(labels=list(jobs_to_exclude), axis="index", inplace=True)
     jobs.reset_index(inplace=True)
-    log(jobs)
     if save_as_new_file:
         jobs.to_csv(save_to, sep=',', index=False)
 
