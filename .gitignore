@@ -2,3 +2,4 @@ log.txt
 start.sh
 __pycache__
 **/.DS_Store
+adapter.py

@@ -1,5 +1,317 @@
 {
     "companies_to_exclude": "hervis, av group, hofer, mango, spar, billa",
     "titles_to_exclude": "versicherung, kellner, bistro, mitarbeiter, Sachbearbeiter, logopäd, bauleiter, leiter, leitung, verkäufer, verkauf, ärzt, salesman, sales, buchhalter, merchandiser",
-    "skills": ["keras", ["git", "github"], ["statistics", "math", "mathematics"], ["sql", "mysql"], "pyspark", "azure", "python", "langchain", "torch", "java", "aws", "docker", "kubernetes", "tensorflow", ["c++", "cpp"], ["gcp", "google cloud platform"]]
+    "skills": [
+        [
+            "python"
+        ],
+        [
+            "js",
+            "ecmascript",
+            "javascript"
+        ],
+        [
+            "typescript"
+        ],
+        [
+            "java"
+        ],
+        [
+            "c#"
+        ],
+        [
+            "cpp",
+            "c++"
+        ],
+        [
+            "go"
+        ],
+        [
+            "ruby"
+        ],
+        [
+            "hypertext preprocessor",
+            "php"
+        ],
+        [
+            "swift"
+        ],
+        [
+            "kotlin"
+        ],
+        [
+            "rust"
+        ],
+        [
+            "scala"
+        ],
+        [
+            "dart"
+        ],
+        [
+            "perl"
+        ],
+        [
+            "shell scripting"
+        ],
+        [
+            "shell scripting",
+            "bash"
+        ],
+        [
+            "mysql",
+            "structured query language",
+            "sql"
+        ],
+        [
+            "matlab",
+            "matlab"
+        ],
+        [
+            "objc",
+            "objective-c"
+        ],
+        [
+            "vb.net"
+        ],
+        [
+            "assembly"
+        ],
+        [
+            "haskell"
+        ],
+        [
+            "elixir"
+        ],
+        [
+            "react.js",
+            "reactjs",
+            "react"
+        ],
+        [
+            "angularjs",
+            "angular"
+        ],
+        [
+            "vue",
+            "vuejs",
+            "vue.js"
+        ],
+        [
+            "svelte"
+        ],
+        [
+            "nextjs",
+            "next.js"
+        ],
+        [
+            "nuxtjs",
+            "nuxt.js"
+        ],
+        [
+            "gatsbyjs",
+            "gatsby"
+        ],
+        [
+            "backbone",
+            "backbone.js"
+        ],
+        [
+            "ember",
+            "ember.js"
+        ],
+        [
+            "jquery"
+        ],
+        [
+            "litelement",
+            "lit"
+        ],
+        [
+            "alpine",
+            "alpine.js"
+        ],
+        [
+            "aws",
+            "amazon cloud",
+            "amazon web services (aws)"
+        ],
+        [
+            "azure",
+            "microsoft azure"
+        ],
+        [
+            "gcp",
+            "google cloud",
+            "google cloud platform (gcp)"
+        ],
+        [
+            "oracle cloud"
+        ],
+        [
+            "ibm cloud"
+        ],
+        [
+            "alibaba cloud"
+        ],
+        [
+            "digitalocean"
+        ],
+        [
+            "heroku"
+        ],
+        [
+            "google firebase",
+            "firebase"
+        ],
+        [
+            "netlify"
+        ],
+        [
+            "vercel"
+        ],
+        [
+            "linode"
+        ],
+        [
+            "cloudflare",
+            "cloudflare workers"
+        ],
+        [
+            "html",
+            "hypertext markup language",
+            "html5"
+        ],
+        [
+            "css",
+            "cascading style sheets",
+            "css3"
+        ],
+        [
+            "sass",
+            "sass"
+        ],
+        [
+            "less"
+        ],
+        [
+            "js",
+            "ecmascript",
+            "javascript"
+        ],
+        [
+            "typescript"
+        ],
+        [
+            "wasm",
+            "webassembly"
+        ],
+        [
+            "ws",
+            "websockets"
+        ],
+        [
+            "service workers"
+        ],
+        [
+            "progressive web app",
+            "pwa"
+        ],
+        [
+            "gql",
+            "graphql"
+        ],
+        [
+            "rest apis",
+            "rest",
+            "restful apis"
+        ],
+        [
+            "grpc"
+        ],
+        [
+            "javascript object notation",
+            "json"
+        ],
+        [
+            "extensible markup language",
+            "xml"
+        ],
+        [
+            "ajax"
+        ],
+        [
+            "tf",
+            "tensorflow"
+        ],
+        [
+            "torch",
+            "pytorch"
+        ],
+        [
+            "keras"
+        ],
+        [
+            "sklearn",
+            "scikit-learn"
+        ],
+        [
+            "opencv"
+        ],
+        [
+            "spacy"
+        ],
+        [
+            "natural language toolkit",
+            "nltk"
+        ],
+        [
+            "transformers",
+            "hugging face transformers"
+        ],
+        [
+            "xgboost"
+        ],
+        [
+            "lightgbm"
+        ],
+        [
+            "fastai"
+        ],
+        [
+            "mlflow"
+        ],
+        [
+            "onnx"
+        ],
+        [
+            "sagemaker",
+            "aws sagemaker"
+        ],
+        [
+            "vertex ai"
+        ],
+        [
+            "datarobot"
+        ],
+        [
+            "github",
+            "git"
+        ],
+        [
+            "pyspark"
+        ],
+        [
+            "langchain"
+        ],
+        [
+            "docker"
+        ],
+        [
+            "kubernetes"
+        ],
+        [
+            "r"
+        ]
+    ]
 }
